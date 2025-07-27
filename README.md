@@ -1,2 +1,3 @@
-# Uber-Fares-Dataset-Analysis
-Uber Fares Data Analysis Project 🚖 Analyze Uber fare patterns using Python for data cleaning and Power BI for visualization. Includes feature engineering, exploratory data analysis, and an interactive dashboard to derive actionable business insights.
+ 📊 Data-Driven Insights from Uber Fares Using Python & Power BI
+ ================================================================
+Analyze Uber fare patterns using Python and Power BI. Includes feature engineering, EDA, and an interactive dashboard for data-driven insights.
