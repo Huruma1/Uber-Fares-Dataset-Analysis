@@ -50,5 +50,9 @@ Third: Import and Analyze in Power BI
 
 The last is about the Image take in action
 this picture it will show you work we made our data by using PBI
-
+![alt text](Dashboard.jpg)
+![alt text](Map.jpg)
+![alt text](<Average Fare Over Time.jpg>)
+![alt text](<Loading Data & and Transform.jpg>)
+![alt text](<Data Before Clean.jpg>)
 Thanks enjoy this tips
